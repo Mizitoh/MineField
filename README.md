@@ -1,5 +1,6 @@
 # MineField
 
+<img  src ="https://github.com/Mizitoh/codeimages/blob/master/minefield1.png" width = 45%> <img src ="https://github.com/Mizitoh/codeimages/blob/master/minefield2.png" width = 43% padding = 10>
 
 I made this project with Professor Leonardo Moura Leitao's help. He teaches at Cod3r BR. A great teacher.
 
